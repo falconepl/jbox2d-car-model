@@ -1,3 +1,5 @@
+package pl.falcone.car;
+
 import org.jbox2d.testbed.framework.*;
 import org.jbox2d.testbed.framework.j2d.TestPanelJ2D;
 import org.slf4j.Logger;

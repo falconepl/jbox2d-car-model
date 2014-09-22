@@ -1,3 +1,5 @@
+package pl.falcone.car;
+
 import org.jbox2d.testbed.framework.TestbedModel;
 
 public class CustomTestList {
